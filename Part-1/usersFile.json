@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Mohamed Ali",
+    "age": 45,
+    "email": "mohamed@test.com"
+  },
+  {
+    "id": 2,
+    "name": "Ahmed Mansour",
+    "age": 30,
+    "email": "ahmed@api.com"
+  },
+  {
+    "id": 3,
+    "name": "Samy Mahmoud",
+    "age": 28,
+    "email": "samy.m@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Omar Hassan",
+    "age": 35,
+    "email": "omar.h89@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Laila Ibrahim",
+    "age": 24,
+    "email": "laila.i@outlook.com"
+  },
+  {
+    "id": 6,
+    "name": "Youssef Zaki",
+    "age": 41,
+    "email": "youssef.zaki@company.net"
+  },
+  {
+    "id": 7,
+    "name": "Mariam Saleh",
+    "age": 22,
+    "email": "mariam.s@edu.eg"
+  },
+  {
+    "id": 8,
+    "name": "Khaled Abdelrahman",
+    "age": 33,
+    "email": "k.abdelrahman@dev.io"
+  },
+  {
+    "id": 9,
+    "name": "Nour El-Din",
+    "age": 29,
+    "email": "nour.eldin@tech.com"
+  },
+  {
+    "id": 10,
+    "name": "Sara Farouk",
+    "age": 26,
+    "email": "sara.f@service.org"
+  },
+  {
+    "id": 11,
+    "name": "Mostafa Kamel",
+    "age": 38,
+    "email": "m.kamel@freelance.com"
+  },
+  {
+    "id": 12,
+    "name": "Hoda Hussein",
+    "age": 44,
+    "email": "hoda_h@web.com"
+  },
+  {
+    "id": 13,
+    "name": "Ziad Kareem",
+    "age": 19,
+    "email": "ziad.k@student.com"
+  },
+  {
+    "id": 14,
+    "name": "Mona El-Sayed",
+    "age": 31,
+    "email": "mona.sayed@agency.com"
+  },
+  {
+    "id": 15,
+    "name": "Tarek Aziz",
+    "age": 50,
+    "email": "t.aziz@expert.net"
+  },
+  {
+    "id": 16,
+    "name": "Fatma Rashad",
+    "age": 27,
+    "email": "fatma.r@cloud.com"
+  },
+  {
+    "id": 17,
+    "name": "Ibrahim Fawzi",
+    "age": 36,
+    "email": "i.fawzi@startup.io"
+  },
+  {
+    "id": 18,
+    "name": "Salma Yasser",
+    "age": 23,
+    "email": "salma.y@design.com"
+  },
+  {
+    "id": 19,
+    "name": "Hany Ramzy",
+    "age": 47,
+    "email": "hany.ramzy@consultant.com"
+  }
+]
