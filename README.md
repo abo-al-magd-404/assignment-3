@@ -1,5 +1,8 @@
 # Assignment 3 – User Management REST API
 
+> **Name:** Mohamed Mahmoud Abo Al Magd  
+> **Group:** Node_C45_Mon&Thurs_8:30pm (Online)
+
 This repository provides a Node.js application implementing a simple user management REST API. It enables creation, retrieval, filtering, updating, and deletion of user records stored in a local JSON file. The project demonstrates backend CRUD operations using the Express framework, and includes a sample users dataset. It is suitable as a backend assignment, learning resource, or a lightweight foundation for more complex CRUD systems.
 
 ## Features
